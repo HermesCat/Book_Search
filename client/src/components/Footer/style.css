@@ -1,0 +1,9 @@
+footer {
+    background: var(--secondary-color);
+    height: 5%;
+    text-align: center;
+    color: var(--secondary-text);
+    margin-top: 2px;
+    padding-top: 5px;
+    border-top: 3px solid var(--accent-color);
+}

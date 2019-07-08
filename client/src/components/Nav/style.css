@@ -1,0 +1,17 @@
+.navbar {
+    background-image: linear-gradient(rgb(90, 211, 241), #49C6E5);
+    border-bottom: 5px solid var(--secondary-color);
+}
+
+.navbar-brand {
+    color: var(--main-text);
+}
+
+.navbar-brand:hover {
+    color: var(--secondary-text);
+}
+
+.main-title {
+    font-size: 2.5rem;
+    margin-right: 70px;
+}
