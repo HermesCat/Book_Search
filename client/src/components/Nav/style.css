@@ -5,6 +5,7 @@
 
 .navbar-brand {
     color: var(--main-text);
+    font-family: 'Roboto Mono', monospace;
 }
 
 .navbar-brand:hover {
