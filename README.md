@@ -15,4 +15,4 @@ which takes you to the Google Play store where you can purchase the book.
 
 # Demo
 
-https://shrouded-temple-11980.herokuapp.com/
+https://dashboard.heroku.com/apps/book-search-react-js
